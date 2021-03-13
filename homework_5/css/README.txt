@@ -1,0 +1,1 @@
+I created an additional product page called product2.html.
