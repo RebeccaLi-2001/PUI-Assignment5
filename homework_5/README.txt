@@ -1,1 +1,2 @@
-I created an additional product page called product2.html.
+I have created two detailed product pages.
+The first one is blackberry.html, and the second is original.html.
